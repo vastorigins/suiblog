@@ -1,1 +1,5 @@
+logo: /assets/img/logo.png
+description: A Simple Blogger Client
+show_downloads: false
+google_analytics: UA-127072751-4
 theme: jekyll-theme-minimal
